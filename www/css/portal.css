@@ -141,6 +141,9 @@ workorder-form md-input-container .md-errors-spacer {
     height: 100%;
     display: inline-block; }
 
+.wfm-step-row {
+  margin-left: 16px; }
+
 md-tabs md-tab-item {
   color: rgba(0, 0, 0, 0.54) !important; }
 

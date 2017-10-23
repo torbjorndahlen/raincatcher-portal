@@ -15,6 +15,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@raincatcher/step-mystep": "0.0.1",
     "@raincatcher-examples/angularjs-extensions": "1.0.0",
     "@raincatcher-examples/step-accident": "1.0.0",
     "@raincatcher-examples/step-vehicle-inspection": "1.0.0",
